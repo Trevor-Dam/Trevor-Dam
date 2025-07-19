@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning NextJS, Tailwind CSS, Spring Boot
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like learning how to write cleaner code and I advise first-year students on how to improve their programming skills
-- 📫 Where to find me: [![LinkedIn Page](https://img.shields.io/badge/Trevor%20Damoyi-blue)](https://www.linkedin.com/in/trevor-damoyi-55602b189)
+- 📫 Where to find me: [![LinkedIn Page](https://img.shields.io/badge/Trevor%20Damoyi-blue)](https://www.linkedin.com/in/trevor-damoyi-55602b189) [![Email Address](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:trevordamoyi307@gmail.com)
 
 ### 🛠️ Languages and Tools:
 <div>
